@@ -23,8 +23,6 @@
 - Todo el proyecto está desarrollado con **HTML 5, CSS 3 , CSS Layout y BOOTSTRAP**. Para su desarrollo se ha empleado Visual Studio Code y Google Chrome. La web del restaurante es completamente responsive y está diseñada para presentar un aspecto limpio y ordenado, en especial cuando se ejecuta en dispositivos móviles. Para el apartado responsive del proyecto, se ha utilizado Bootstrap 5.
 
 
-![image](https://user-images.githubusercontent.com/122631261/219850727-17770373-56f5-4b8c-899b-3cac03d13341.png)
-
 ### Errores conocidos
 - En el apartado de Bienvenida, el margen izquierdo es inexistente.
 - En el apartado de contacto, el margen izquierdo es inexistente, el formulario si que es responsive, pero su caja contenedora no.
