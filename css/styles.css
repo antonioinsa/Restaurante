@@ -38,10 +38,24 @@ label{
     align-items: center;
 }
 
-.row{
+#formulariocontacto{
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: rgb(220, 224, 228);
     border-radius: 5%;
+}
+
+#menu{
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.h-5{
+    height: 3em;
+}
+
+.card-text{
+    font-style: oblique;
 }
