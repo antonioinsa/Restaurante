@@ -48,8 +48,8 @@ label{
 
 #menu{
     color: red;
-    font-size: larger;
     font-weight: bold;
+    font-size: xx-large;
 }
 
 .h-5{
@@ -58,4 +58,10 @@ label{
 
 .card-text{
     font-style: oblique;
+}
+
+.full{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
