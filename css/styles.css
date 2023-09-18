@@ -10,14 +10,6 @@ body {
 
 }
 
-.portada{
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-
 .texto-portada{
 
     display: flex;
@@ -46,4 +38,10 @@ label{
     align-items: center;
 }
 
-
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(220, 224, 228);
+    border-radius: 5%;
+}
